@@ -1,14 +1,14 @@
 # Future_BC_01
 //learning/intern
 
-Slide 1: Title Slide
+1: Title Slide
 
  Title: Benefits of Using Platforms Similar to Binance
  Subtitle: Web3 Learning Possibilities
  On behalf of: Aryan Rawat
  Date: 12/03/25
  
- Slide 2: Benefits of Platforms Similar to Binance
+2: Benefits of Platforms Similar to Binance
 
  Easy-to-use Interface
 
@@ -23,7 +23,7 @@ Slide 1: Title Slide
  Platforms that resemble Binance frequently provide a number of sophisticated trading tools to improve the trading experience.  These include staking, where users can profit by taking part in network operations; futures contracts, which allow speculation on the future price of assets; and margin trading, which enables users to borrow money to trade larger holdings.  Traders who want to employ complex techniques and optimize their possible profits are catered to by these characteristics.
 
  
- Slide 3: Extra Benefits  
+ 3: Extra Benefits  
  
  Educational Materials
 
@@ -51,7 +51,7 @@ Slide 1: Title Slide
  Users can learn about various trading methods as they trade on these platforms.  Users will be able to improve their trading abilities by having access to resources on technical analysis, chart patterns, and market indicators.  With this information, they are better able to assess market patterns, pinpoint entry and exit locations, and develop individualized trading strategies that complement their financial goals.
 
  
- Slide 5: Additional Learning Domains
+ 5: Additional Learning Domains
 
  Management of Wallets
 
